@@ -2,7 +2,7 @@
 
 ## Description
 
-A GUI and command line C++ implementation of [Game of Hex](http://en.wikipedia.org/wiki/Hex_(board_game)), with an intuitive user interface and a simple AI algorithm. It's a project that was created as a part of the *Programming Techniques* course at University of California, Santa Cruz.
+A GUI and command line C++ implementation of [Game of Hex](http://en.wikipedia.org/wiki/Hex_(board_game)), with an intuitive user interface and a simple AI algorithm. It's a project that was created as a part of the *Programming Techniques* course at EHTP, Casablanca
 
 This program requires C++11 support, which is not provided by older versions of g++. It has been tested successfully using g++ v4.4.6 and v4.8.0.
 
@@ -36,4 +36,10 @@ https://www.libsdl.org/projects/SDL_image
 
 ```
 https://www.libsdl.org/projects/SDL_mixer/
+```
+
+### CodeBlocks
+The project uses Codeblocks as an IDE, but any other IDE will do just fine.
+```
+http://www.codeblocks.org/
 ```
